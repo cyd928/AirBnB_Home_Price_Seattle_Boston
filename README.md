@@ -4,7 +4,8 @@
 1. [Installations](#101)
 2. [Project Motivation](#102)
 3. [File Descriptions](#103)
-4. [Acknowledgement](#104)
+4. [Summary of Results](#104)
+5. [Acknowledgement](#105)
 
 
 ### 1.<a name="101"></a> Installations
@@ -24,7 +25,12 @@ As AirBnB housing data is open-source, it would be interesting to acquire the la
 The _AirBnB_price_prediction.ipynb_ file contains the data wrangling, visualisation and modelling processes as well as demonstrating the results. The comments in addition to the code will also help you follow the steps and understand the analysis.
 
 
-### 4. <a name="104"></a> Acknowledgement
-* Author: cyd928
+### 4. <a name="104"></a> Summary of Results
+* Home price peaks at different period of the year for both cities. In addition, average house price tends to be higher in Boston than that in Seattle.
+* Home price tends to have higher correlation with characteristics such as: the number of people accommdating, host listing counts, homes with real bed, super strict 30 cancellation policy and the availability of the entire home/apt.
+* Home price can be predicted with higher accuracy using random forest regression algorithm.
 
+
+### 5. <a name="105"></a> Acknowledgement
+* Author: cyd928
 
