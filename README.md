@@ -27,7 +27,7 @@ The _AirBnB_price_prediction.ipynb_ file contains the data wrangling, visualisat
 
 ### 4. <a name="104"></a> Summary of Results
 * Home price peaks at different period of the year for both cities. In addition, average house price tends to be higher in Boston than that in Seattle.
-* Home price tends to have higher correlation with characteristics such as: the number of people accommdating, host listing counts, homes with real bed, super strict 30 cancellation policy and the availability of the entire home/apt.
+* Home price tends to have higher correlation with characteristics such as: the number of people accommodating, host listing counts, homes with real bed, super strict 30 cancellation policy and the availability of the entire home/apt.
 * Home price can be predicted with higher accuracy using random forest regression algorithm.
 
 
