@@ -5,7 +5,7 @@
 2. [Project Motivation](#102)
 3. [File Descriptions](#103)
 4. [Summary of Results](#104)
-5. [Acknowledgement](#105)
+5. [Additional Information](#105)
 
 
 ### 1.<a name="101"></a> Installations
@@ -31,6 +31,7 @@ The _AirBnB_price_prediction.ipynb_ file contains the data wrangling, visualisat
 * Home price can be predicted with higher accuracy using random forest regression algorithm.
 
 
-### 5. <a name="105"></a> Acknowledgement
+### 5. <a name="105"></a> Additional Information
 * Author: cyd928
+* Blog post of this analysis: https://medium.com/@chenyudan0928/what-can-data-tell-us-about-airbnb-home-price-in-b9b6b520ab0c
 
